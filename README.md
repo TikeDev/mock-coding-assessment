@@ -47,7 +47,8 @@ assessment/
 
 #### Level 1 open in IDE
 <img width="48%" height="1748" alt="codesignal-ica-mock_screenshot3" src="https://github.com/user-attachments/assets/128c57a5-1168-4d77-b8a7-aa108346809b" />
-<img width="48%" height="1748" alt="codesignal-ica-mock_screenshot4" src="https://github.com/user-attachments/assets/7a3a4b9b-25d5-4560-82a6-b55ba99b415c" />
+<img width="48%" height="1748" alt="codesignal-ica-mock_screenshot4" src="https://github.com/user-attachments/assets/7a3a4b9b-25d5-4560-82a6-b55ba99b415c" />  
 
-
-Please let me know if you try it and have any feedback!
+----
+  
+Please let me know if you have any feedback!
